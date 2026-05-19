@@ -28,7 +28,7 @@ Todos los proyectos se presentan dentro del PDF del portafolio:
 
 El resultado principal de este sistema es:
 
-📄 **Raimo_Portfolio_ES.pdf**
+📄 **Raimo_Parkkila_Visual_Portfolio_ES.pdf**
 
 Este archivo contiene la presentación visual completa de todos los proyectos.
 
